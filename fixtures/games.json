@@ -1,0 +1,22 @@
+[
+  {
+      "model": "levelupapi.game",
+      "pk": 1,
+      "fields": {
+          "game_type": 3,
+          "title": "Halo: Combat Evolved",
+          "number_of_players": 4,
+          "skill_level": 6
+      }
+  },
+  {
+    "model": "levelupapi.game",
+    "pk": 2,
+    "fields": {
+        "title": "Checkers",
+        "game_type": 1,
+        "number_of_players": 2,
+        "skill_level": 1
+    }
+}
+]
